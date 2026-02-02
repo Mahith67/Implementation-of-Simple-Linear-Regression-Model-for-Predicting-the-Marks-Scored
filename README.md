@@ -15,7 +15,6 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Program:
 ```
-/*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Mahith M
 RegisterNumber:25004610
@@ -71,7 +70,6 @@ plt.title("Simple Linear Regression: Predicting Marks")
 plt.legend()
 plt.grid(True)
 plt.show()
-*/
 ```
 
 ## Output:
